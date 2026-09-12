@@ -1,14 +1,15 @@
 #bill tip calculation + splitting of amount 
-bill=int(input("Enter the bill amount: "))
-tip=int(input("Enter the tip percentage: "))
-tipamt=(bill*tip)/100
+bill=int(input("enter bill amount="))
+tip=int(input("enter tip percentage="))
+tipamt=bill*(tip/100)
 total=bill+tipamt
-print("The tip amount is: ",tipamt)
-print("The total amount to be paid is: ",total)
-split=int(input("Enter the number of people to split the bill: "))
+print("total amount to be paid is ->",total)
+split=int(input("number of person to split the bill-"))
 if split>0:
-    amtpp=total/split
-    print("The amount per person is: ",amtpp)
+    spamt=total/split
+    print("the amount to be paid by each person is -",spamt)
 else:
-    print("since number of people is zero, so no split.")
+    print("since person is only you, so enjoy paying the bill!")
+
+
     
