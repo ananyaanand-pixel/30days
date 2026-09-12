@@ -18,8 +18,8 @@ My goal is to write **one completely fresh script every single day without a bre
 
 | Day | Project Script | What I Learned / Core Concept | Status |
 | :--- | :--- | :--- | :---: |
-| **Day 01** | `hello_world.py` | Working with `print()`, variables, and string inputs. | ⏳ Next Up |
-| **Day 02** | `tip_calculator.py` | Arithmetic operations, data types (`int`, `float`), and type casting. | ⏳ Next Up  |
+
+| **Day 01** | `bill.py` | Arithmetic operations, data types (`int`, `float`), and type casting. | ✅ Done  |
 | **Day 03** | `adventure_game.py` | Conditional branching using `if`, `elif`, and `else` statements. | ⏳ Next Up  |
 | **Day 04** | `multiplication_table.py` | Automating repetitive tasks using `for` and `while` loops. | ✅ Done |
 | **Day 05** | `todo_list.py` | Storing and managing collections of items using Python `lists`. | ⏳ Next Up |
