@@ -10,6 +10,3 @@ if split>0:
     print("the amount to be paid by each person is -",spamt)
 else:
     print("since person is only you, so enjoy paying the bill!")
-
-
-    
