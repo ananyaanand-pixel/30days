@@ -20,7 +20,7 @@ My goal is to write **one completely fresh script every single day without a bre
 | :--- | :--- | :--- | :---: |
 | **Day 01** | [bill.py](bill.py) | Arithmetic operations, data types (`int`, `float`), and type casting. | ✅ Done  |
 | **Day 02** | [triangle.py](triangle.py) | generating solid and hollow pyramid and inverted triangle star patterns using loops, string multiplication, and conditional formatting. | ✅ Done  |
-| **Day 03** | [multiply.py](multiply.py) | Automating repetitive tasks using `for` loop. | ✅ Done  |
+| **Day 03** | [multiply.py](multiply.py) | Loops (for), range() function, and user input validation | ✅ Done  |
 | **Day 04** | `todo_list.py` | Storing and managing collections of items using Python `lists`. | ⏳ Next Up |
 | **Day 05** | *Incoming Script* | Writing custom reusable blocks using `def` functions. | 📅 Upcoming |
 
