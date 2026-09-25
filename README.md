@@ -37,6 +37,3 @@ My goal is to write **one completely fresh script every single day without a bre
 ---
 
 *“Code everyday, no matter how small the script.✨”* 
-
-
-
