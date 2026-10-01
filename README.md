@@ -22,7 +22,7 @@ My goal is to write **one completely fresh script every single day without a bre
 | **Day 02** | [triangle.py](triangle.py) | generating solid and hollow pyramid and inverted triangle star patterns using loops, string multiplication, and conditional formatting. | ✅ Done  |
 | **Day 03** | [multiply.py](multiply.py) | Loops (for), range() function, and user input validation | ✅ Done  |
 | **Day 04** | [todolist.py](todolist.py) | Storing and managing collections of items using Python `lists`. | ✅ Done |
-| **Day 05** | *Incoming Script* | Writing custom reusable blocks using `def` functions. | 📅 Upcoming |
+| **Day 05** | [textinsp.py](textinsp.py) | String manipulation methods (.lower(), .strip(), .replace()) and measuring string length. | ✅ Done |
 
 *(Note: This table updates every night with my newest script and latest classroom breakthroughs!)*
 
@@ -31,7 +31,7 @@ My goal is to write **one completely fresh script every single day without a bre
 ## 🛠️ My Setup
 
 *   **Language:** Python 3.x 🐍
-*   **Editor:** VS Code / Terminal
+*   **Editor:** VS Code / Terminal / online-python.com
 *   **Methodology:** Learning in public and committing code daily to build muscle memory.
 
 ---
