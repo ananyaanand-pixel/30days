@@ -16,3 +16,6 @@ for i in range(1, n + 1):
         # Middle spaces inside the triangle
         i_s = " " * (2 * i - 3)
         print(s + "*" + i_s + "*")
+
+
+
