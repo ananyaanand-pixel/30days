@@ -27,7 +27,9 @@ My goal is to write **one completely fresh script every single day without a bre
 | **Day 07** | upcoming | ----- | ⏳upcoming |
 | **Day 08** | upcoming | ----- | ⏳upcoming |
 | **Day 09** | upcoming | ----- | ⏳upcoming |
-| **Day 10** | upcoming | ----- | ⏳upcoming |
+| **Day 10** | upcoming | ----- | ⏳upcoming | 
+
+------------
 *(Note: This table updates every night with my newest script and latest classroom breakthroughs!)*
 
 ---
