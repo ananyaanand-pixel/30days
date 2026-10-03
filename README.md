@@ -23,7 +23,11 @@ My goal is to write **one completely fresh script every single day without a bre
 | **Day 03** | [multiply.py](multiply.py) | Loops (for), range() function, and user input validation | ✅ Done  |
 | **Day 04** | [todolist.py](todolist.py) | Storing and managing collections of items using Python `lists`. | ✅ Done |
 | **Day 05** | [textinsp.py](textinsp.py) | String manipulation methods (.lower(), .strip(), .replace()) and measuring string length. | ✅ Done |
-
+| **Day 06** | [contactbook.py](contactbook.py) | Introduction to Python dictionaries (storing data via keys and values). | ✅ Done |
+| **Day 07** | upcoming | ----- | ⏳upcoming |
+| **Day 08** | upcoming | ----- | ⏳upcoming |
+| **Day 09** | upcoming | ----- | ⏳upcoming |
+| **Day 10** | upcoming | ----- | ⏳upcoming |
 *(Note: This table updates every night with my newest script and latest classroom breakthroughs!)*
 
 ---
