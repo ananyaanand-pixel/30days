@@ -16,7 +16,7 @@ My goal is to write **one completely fresh script every single day without a bre
 
 ## 📅 The 30-Day Learning Log
 
-| Day | Project Script | What I Learned / Core Concept | Status |
+| Day      | Project Script | What I Learned / Core Concept | Status |
 | :--- | :--- | :--- | :---: |
 | **Day 01** | [bill.py](bill.py) | Arithmetic operations, data types (`int`, `float`), and type casting. | ✅ Done  |
 | **Day 02** | [triangle.py](triangle.py) | generating solid and hollow pyramid and inverted triangle star patterns using loops, string multiplication, and conditional formatting. | ✅ Done  |
