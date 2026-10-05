@@ -1,4 +1,4 @@
-#unit cpnverter
+#unit converter
 def ctof(cel):
     f=(cel * 9/5) + 32
     return f
