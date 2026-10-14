@@ -25,7 +25,7 @@ My goal is to write **one completely fresh script every single day without a bre
 | **Day 05** | [textinsp.py](textinsp.py) | String manipulation methods (.lower(), .strip(), .replace()) and measuring string length. | ✅ Done |
 | **Day 06** | [contactbook.py](contactbook.py) | Introduction to Python dictionaries (storing data via keys and values). | ✅ Done |
 | **Day 07** | [unitconverter.py](unitconverter.py) | Defining and calling custom functions using def, passing arguments, and using return. | ✅ Done |
-| **Day 08** | diarylogger.py | File Handling (reading and writing to external files using open() and with). | ⏳upcoming |
+| **Day 08** | [diarylogger.py](diarylogger.py) | File Handling (reading and writing to external files using open() and with). | ✅ Done |
 | **Day 09** | diceroller.py | Importing built-in standard library packages (the random module). | ⏳upcoming |
 | **Day 10** | upcoming | ----- | ⏳upcoming | 
 
