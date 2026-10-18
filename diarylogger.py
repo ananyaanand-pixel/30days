@@ -1,4 +1,4 @@
-print("=== 📓 Welcome to the Day 09 Personal Diary Logger ===")
+print("=== 📓 Welcome to the Personal Diary Logger ===")
 
 
 while True:
