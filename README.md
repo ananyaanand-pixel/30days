@@ -32,7 +32,7 @@ My goal is to write **one completely fresh script every single day without a bre
 ------------
 *(Note: This table updates every night with my newest script and latest classroom breakthroughs!)*
 
----
+-------
 
 ## 🛠️ My Setup
 
@@ -40,7 +40,7 @@ My goal is to write **one completely fresh script every single day without a bre
 *   **Editor:** VS Code / Terminal / online-python.com
 *   **Methodology:** Learning in public and committing code daily to build muscle memory.
 
----
+--------
 
 *“Code everyday, no matter how small the script.✨”* 
 
